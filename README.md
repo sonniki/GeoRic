@@ -36,9 +36,15 @@ The GeoRic dataset is created for research purposes only. We claim no ownership 
 
 ## Citing GeoRic dataset
 
-Nikiforova, S., Deoskar, T., Paperno, D., and Winter, Y. Geo-Aware Image Caption Generation. To
-appear in _Proceedings of the 28th International Conference on Computational Linguistics (COLING
-2020)_. 
+```
+@inproceedings{nikiforova2020geo,
+  title={Geo-Aware Image Caption Generation},
+  author={Nikiforova, Sofia and Deoskar, Tejaswini and Paperno, Denis and Winter, Yoad},
+  booktitle={Proceedings of the 28th International Conference on Computational Linguistics},
+  pages={3143--3156},
+  year={2020}
+}
+```
 
 ## Dataset statistics
 
